@@ -9,9 +9,6 @@ This project was created as a means of storing important information learned in 
 
 During this project I learned how to use GIT, HTML, CSS and javascript together to create the frame, style and interactivity of a study guide.
 
-## Table of Contents 
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
 
 
 ## Installation
